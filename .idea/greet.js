@@ -1,7 +1,7 @@
 var greet;
 
 greet = function() {
-    console.log('hello');
+    console.log('what is going on!');
 };
 
 module.exports = greet;
